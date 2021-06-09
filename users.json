@@ -1,0 +1,72 @@
+[
+  {
+    "firstName": "Dan",
+    "lastName": "Reale",
+    "email": "dan@gmail.com",
+    "job": "QA",
+    "id": "1"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Jones",
+    "email": "gary@gmail.com",
+    "job": "Developer",
+    "id": "2"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Smith",
+    "email": "mary@gmail.com",
+    "job": "Scrum Master",
+    "id": "3"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Hertz",
+    "email": "jess@gmail.com",
+    "job": "Product Owner",
+    "id": "4"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Pondela",
+    "email": "mark@gmail.com",
+    "job": "Accountant",
+    "id": "5"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Correa",
+    "email": "joe@gmail.com",
+    "job": "CTO",
+    "id": "6"
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Sanders",
+    "email": "barry@gmail.com",
+    "job": "CEO",
+    "id": "7"
+  },
+  {
+    "firstName": "Kimberly",
+    "lastName": "Burgess",
+    "email": "kim@gmail.com",
+    "job": "Business Analyst",
+    "id": "8"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Griffin",
+    "email": "peter@gmail.com",
+    "job": "Developer",
+    "id": "9"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Cartman",
+    "email": "eric@gmail.com",
+    "job": "QA",
+    "id": "10"
+  }
+]
