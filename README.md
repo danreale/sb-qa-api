@@ -12,10 +12,6 @@ Open terminal and run:
 
 `npm run start`
 
-### Running Tests
-
-`npm run test`
-
 ### Examples
 
 Healthcheck
