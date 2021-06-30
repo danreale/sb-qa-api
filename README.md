@@ -6,7 +6,7 @@ Prerequisite - nodejs must be installed (LTS) https://nodejs.org/en/download/
 
 Open terminal and run:
 
-`npm run install`
+`npm install`
 
 ### Running the API
 
